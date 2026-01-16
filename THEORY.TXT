@@ -1,0 +1,101 @@
+"""
+what is function:
+--------------------
+
+function is a block of code that code are used to again and again.
+
+using of function we can reduce our code.
+
+we can save our devlopment time.
+--------------------------------------
+how to creat and use function?
+
+using of def keyword we can define our function 
+
+step1:function defination
+   
+
+    syntax: deff <functionname>:
+    block of code
+
+step2: function calling
+
+      functionname()
+----------------------------------------------------
+
+type of function?
+
+thare are two type of function
+
+      1) in-built function:
+           which is predefine by python system
+
+           e.g print(),input(),len(),max(),...............
+
+       2) user-defined function:
+
+       which  is created by user for function
+
+
+------------------------------------------------------------------------------------
+function categories:
+
+there are 4 type of categories
+
+1)function without parameter and function without return type.
+
+     syntax: def funname():
+     statement
+
+2)function with parameteres and function without return type.
+      
+     syntax: def funname(parameter1,pera2....):
+     statement
+
+     
+3) functon without parameter and function with return type.
+
+   note: at a time we can return single statement or single value
+
+   sy: def funname():
+         return statement
+
+
+
+4)function with parameter and function with return type.
+
+   syntax:def funname(par1,pera2..):
+          return statement
+
+
+ ---------------------------------------------------------------
+
+ lambda function:lambda function is an anonymous function
+
+     a function without any name its called lamda function.
+
+     lambda function which declare with lambda keyword.
+
+     thare is only one return statement
+
+     lambda function which can accept as many as parameter
+
+     sy:
+
+     lambda args: statement
+
+     =========================================================
+
+     map:map is a most powerfull function which group together iteration and 
+     function logic.
+
+     syntax:map(funname,iterator)
+
+================================================================================
+
+filter: filter is same behave like map function but filter apply operation
+specific condition wise
+
+filter out specific sequence.
+sy:filter (funname,it)
+"""
